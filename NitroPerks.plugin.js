@@ -30,10 +30,10 @@
 module.exports = (() => {
     const config = {
         "info": {
-            "name": "NitroPerks",
+            "name": "nehirpink1",
             "authors": [{
-                "name": "lemons",
-                "discord_id": "407348579376693260",
+                "name": "FasttEmirrr",
+                "discord_id": "857065287940440074",
                 "github_username": "respecting"
             }],
             "version": "1.3.6",
